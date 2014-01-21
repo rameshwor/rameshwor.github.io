@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://rameshwor.github.io/atom.xml" rel="self"/>
   <link href="http://rameshwor.github.io/"/>
-  <updated>2014-01-21T14:23:57+05:45</updated>
+  <updated>2014-01-21T14:38:21+05:45</updated>
   <id>http://rameshwor.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Test Post]]></title>
+    <link href="http://rameshwor.github.io/blog/2014/01/21/test-post/"/>
+    <updated>2014-01-21T14:33:04+05:45</updated>
+    <id>http://rameshwor.github.io/blog/2014/01/21/test-post</id>
+    <content type="html"><![CDATA[<h1>Post Title</h1>
+
+<h3>Blog Check</h3>
+
+<p>The blog is setup successfully. This post is just to check if a new post can be made and deployed using the</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>rake_deploy</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Octopress Installation Test Post]]></title>
