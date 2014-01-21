@@ -1,0 +1,15 @@
+---
+layout: post
+title: " test post "
+date: 2014-01-21 14:33:04 +0545
+comments: true
+categories: 
+---
+
+# Post Title
+
+### Blog Check
+The blog is setup successfully. This post is just to check if a new post can be made and deployed using the 
+```
+rake_deploy
+```
